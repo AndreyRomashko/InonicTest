@@ -1,0 +1,8 @@
+{
+  "name": "TestIonic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "pro_id": "cd38996c"
+}
